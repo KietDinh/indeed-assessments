@@ -2,6 +2,8 @@
 
 #### Q1. Why is the PC showing the same display on two monitors?
 
+<img src="https://github.com/KeithDinh/indeed-assessments/blob/main/assets/img/technical-support/Q1.jpg" alt="Q1" width="400px">
+
 - [ ] The resolution is too small for one monitor
 - [ ] The resolution is too large for one monitor
 - [x] The PC is extending the display on both monitors
@@ -9,6 +11,8 @@
 - [ ] The PC only has one monitor plugged in
 
 #### Q2. Which part would you test?
+
+<img src="https://github.com/KeithDinh/indeed-assessments/blob/main/assets/img/technical-support/Q2.jpg" alt="Q2" width="400px">
 
 - [ ] CPU
 - [ ] PSU
@@ -89,6 +93,8 @@
 - [ ] The workstation is unable to resolve the domain name to the IP addresses
 
 #### Q12. What is the cause?
+
+<img src="https://github.com/KeithDinh/indeed-assessments/blob/main/assets/img/technical-support/Q12.jpg" alt="Q12" width="400px">
 
 - [ ] Domain is improperly configured at the registrar
 - [ ] Web server doesn't support HTTPS sites
