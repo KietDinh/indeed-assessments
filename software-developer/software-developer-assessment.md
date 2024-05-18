@@ -40,8 +40,8 @@
 
 - [ ] Create a third service to handle the interaction between the services
 - [ ] Have a shared database that allows both applications to read and write to the tables to share the data instead of having to communicate
-- [x] Use a RESTful architecture for both, send the ID through a POST, and ping the service with a GET until a response is available
-- [ ] Use asynchronous messaging to send and receive messages between each microservice
+- [] Use a RESTful architecture for both, send the ID through a POST, and ping the service with a GET until a response is available
+- [x] Use asynchronous messaging to send and receive messages between each microservice
 - [ ] Abandon the microservice architecture so no interaction is needed
 
 #### Q5. What's the value of result after the loop completes? Language: Java
